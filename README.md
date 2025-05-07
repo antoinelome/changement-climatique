@@ -1,6 +1,7 @@
 # Changement-Climatique
 
 Analyse du changement climatique en province.
+Par Pierre Aldegheri et Antoine Rouvrais--Reuten.
 
 Évolution du climat local depuis 1985 : comparaison entre la Côtes-d’Armor (Bretagne) et la Haute-Garonne (Occitanie)
 
