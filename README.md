@@ -13,7 +13,7 @@ Nous avons choisi d'analyser l’évolution des climats des villes de Saint-Brie
      Nous avons choisi d'analyser l’évolution des climats des villes de Saint-Brieuc et Toulouse-Francazal. Ces deux villes se trouvent respectivement en Côtes-d’Armor et en Haute-Garonne. Cette analyse est intéressante car elle s’appuie sur deux villes au climat différents. D’abord Saint-Brieuc, une ville de Côtes-d’Armor au climat côtier océanique. On dit que c’est un climat océanique tempéré, marqué par des hivers doux, des étés frais et des précipitations régulières toute l’année. Il est directement influencé par l’océan Atlantique. Pour Toulouse-Francazal on est plus proche d’un climat continental. Ainsi, cette analyse des climats pour ces deux villes a deux dates distinctes nous permettra ou non de voir si le changement climatique a joué un rôle dans les dynamiques climatiques locales. 
      Le changement climatique est un phénomène global et qui a des effets différenciés selon les régions. En France, l’élévation des températures, la modification des régimes de précipitations et l’intensification des événements extrêmes affectent les territoires de façon inégale, en fonction de leur position géographique, de leur exposition et de leur climat local. Ainsi, il est intéressant d’étudier ce phénomène pour deux villes de provinces géographiquement opposées. 
      
-<img width="669" alt="Capture d’écran 2025-05-07 à 22 38 12" src="https://github.com/user-attachments/assets/bd4f651c-6b48-48ec-8300-31eea4cefa91" />
+
 
 PROBLÉMATIQUE : 
 
@@ -29,6 +29,9 @@ https://defis.data.gouv.fr/datasets/6569af36ba0c3d2f9d4bf98c#/resources/e4966ab4
 ![image](https://github.com/user-attachments/assets/8b9c3300-2a8e-491e-b52f-d62955ccfec3)
 
 ![image](https://github.com/user-attachments/assets/33c84693-630d-4721-a95d-61526973f3fc)
+
+Malheureusement RStudio a rencontré des soucis de chargement pour la carte de Saint-Brieuc. Nous réessayerons plus tard.
+<img width="777" alt="Capture d’écran 2025-05-08 à 00 05 24" src="https://github.com/user-attachments/assets/353839e5-2ce2-41f8-b873-ccdf42c5c2fd" />
 
 -
 
