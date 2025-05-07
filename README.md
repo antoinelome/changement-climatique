@@ -17,7 +17,7 @@ Nous avons choisi d'analyser l’évolution des climats des villes de Saint-Brie
 
 PROBLÉMATIQUE : 
 
-Comment le changement climatique a-t-il modifié les dynamiques climatiques locales entre 1985 et 2023 dans deux contextes géographiques contrastés, l’un côtier (Côtes-d’Armor) et l’autre continental (Haute-Garonne) via l’exemple des villes de Toulouse-Francazal (31) et Saint-Brieuc (22) ?
+Comment le changement climatique a-t-il modifié les dynamiques climatiques locales entre 1985 et 2023 dans deux contextes géographiques contrastés, l’un côtier (Côtes-d’Armor) et l’autre continental (Haute-Garonne) via l’exemple des villes de Saint-Brieuc (22) et Toulouse (31) ?
 
 DONNÉES : 
 
@@ -29,6 +29,8 @@ https://defis.data.gouv.fr/datasets/6569af36ba0c3d2f9d4bf98c#/resources/e4966ab4
 ![image](https://github.com/user-attachments/assets/8b9c3300-2a8e-491e-b52f-d62955ccfec3)
 
 ![image](https://github.com/user-attachments/assets/33c84693-630d-4721-a95d-61526973f3fc)
+
+SI la discrétisation ne correspond pas à quelque chose sur la carte. Elle permet en revanche d'imaginer les variations de températures entre été et hiver. On voit que la différence est majeure pour les températures minimales des mois les plus froid puisque si en 1985 la température pouvait descendre à -8°C elle est très légèrement passée sous les 0°C en 2023.
 
 Malheureusement RStudio a rencontré des soucis de chargement pour la carte de Saint-Brieuc. Nous réessayerons plus tard.
 <img width="777" alt="Capture d’écran 2025-05-08 à 00 05 24" src="https://github.com/user-attachments/assets/353839e5-2ce2-41f8-b873-ccdf42c5c2fd" />
