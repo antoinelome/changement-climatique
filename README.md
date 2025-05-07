@@ -26,6 +26,9 @@ On a sélectionné les deux jeux données suivants :
 https://defis.data.gouv.fr/datasets/6569af36ba0c3d2f9d4bf98c#/resources/9ea0dc55-c388-4be7-90c5-253b652ae0ea
 https://defis.data.gouv.fr/datasets/6569af36ba0c3d2f9d4bf98c#/resources/e4966ab4-8dc3-4c9f-8adc-86185885afab
 
+![image](https://github.com/user-attachments/assets/8b9c3300-2a8e-491e-b52f-d62955ccfec3)
+
+![image](https://github.com/user-attachments/assets/33c84693-630d-4721-a95d-61526973f3fc)
 
 -
 
